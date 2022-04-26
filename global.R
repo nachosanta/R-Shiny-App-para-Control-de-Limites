@@ -24,7 +24,7 @@ library(shinyWidgets)
 
 # datos ----
                                 # ACA SE ESCRIBE EL PATH a la base de datos
-datos_actual <- read_excel("C:/Users/Ignac/Desktop/PEV Ternium/app_control_limites/base_de_datos_simulados.xlsx")
+datos_actual <- read_excel("C:/Users/Ignac/Desktop/Carpeta/app_control_limites/base_de_datos_simulados.xlsx")
 
 # preprocesamiento ----
 # cambio el nombre a Puesto y PC (ambos tenian el mismo nombre), tambien le cambio el nombre a las variables de interes
